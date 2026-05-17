@@ -97,3 +97,7 @@ If you want, I can also:
 - add a `requirements.txt` or `environment.yml` for the project,
 - modify the notebook to use `plotly` interactivity, or
 - create a small Streamlit dashboard that reproduces the layout.
+
+- Here's PowerBI Dashboard
+<img width="1268" height="658" alt="Customer_Behaviour" src="https://github.com/user-attachments/assets/ba51cb7d-6239-4e5d-9e63-be2dea6ae42d" />
+
